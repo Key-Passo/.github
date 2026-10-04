@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../log_keypasso" alt="Logo Key-Passo" width="220">
+  <img src="../log_keypasso.png" alt="Logo Key-Passo" width="220">
 </p>
 
 <h1 align="center">Key-Passo</h1>
